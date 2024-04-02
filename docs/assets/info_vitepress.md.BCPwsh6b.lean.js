@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,a3 as s}from"./chunks/framework.BI06Adbe.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"info/vitepress.md","filePath":"info/vitepress.md"}'),a={name:"info/vitepress.md"},i=s("",2),n=[i];function o(p,_,c,f,h,l){return r(),t("div",null,n)}const m=e(a,[["render",o]]);export{v as __pageData,m as default};
