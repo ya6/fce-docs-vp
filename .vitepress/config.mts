@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: ".",
   outDir: "./docs",
   title: "FitCropEdit DOCS",
   description: "The photo editor for quick editing and cropping of images directly in the browser",
